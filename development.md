@@ -50,6 +50,7 @@ Please consider this, when using our nightly builds.
 ### Download Nightly Builds
 
 [c:geo application](https://download.cgeo.org/cgeo-nightly.apk)
+[c:geo light application](https://download.cgeo.org/cgeo-foss-nightly.apk) (without ML Kit translation)
 
 ## F-Droid repository
 
